@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "name": "Nikolay",
+    "average": 4.6
+  },
+  {
+    "id": 2,
+    "name": "Alex",
+    "average": 3.2
+  },
+  {
+    "id": 3,
+    "name": "Inna",
+    "average": 5.0
+  }
+]
